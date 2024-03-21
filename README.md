@@ -20,4 +20,5 @@ One of the virtual machines will run on the Microsoft Windows 10 operating syste
 
 <h2>Walk-through:</h2>
 
-<h2></h2>
+1. I will create a new Resource Group from my Microsoft Azure subscription account. This resource group is  container that will hold all the virtual machine's...
+2. 
