@@ -11,14 +11,18 @@ One of the virtual machines will run on the Microsoft Windows 10 operating syste
 
 <h2>Video Demonstration:</h2>
 
+- [How to Create Virtual Machines with Microsoft Azure](https://www.youtube.com)
+  
+
 <h2>Environments, Applications and Technologies Used:</h2>
 
 - Microsoft Azure cloud platform
-- Windows 10 operating system
+- Windows 10 operating system (21H2)
 - Linux Ubuntu operating system
+- Remote Desktop
 - 
 
 <h2>Walk-through:</h2>
 
-1. I will create a new Resource Group from my Microsoft Azure subscription account. This resource group is  container that will hold all the virtual machine's...
-2. 
+- I will create a new Resource Group from my Microsoft Azure subscription account. This resource group is a container that holds all the computing resources for  virtual machine's...
+-  
