@@ -17,10 +17,10 @@ One of the virtual machines will run on the Microsoft Windows 10 operating syste
 <h2>Environments, Applications and Technologies Used:</h2>
 
 - Microsoft Azure cloud platform
-- Windows 10 operating system (21H2)
-- Linux Ubuntu operating system
+- Microsoft Windows 10 operating system (21H2)
+- Linux Ubuntu 20.04
 - Remote Desktop
-- 
+- Powershell/CLI
 
 <h2>Walk-through:</h2>
 
