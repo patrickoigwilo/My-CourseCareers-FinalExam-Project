@@ -14,8 +14,8 @@ One of the virtual machines will run on the Microsoft Windows 10 operating syste
 <h2>Environments, Applications and Technologies Used:</h2>
 
 - Microsoft Azure cloud platform
-- Windows 10 operating systems
-- linux Ubuntu operating system
+- Windows 10 operating system
+- Linux Ubuntu operating system
 - 
 
 <h2>Walk-through:</h2>
