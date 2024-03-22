@@ -4,7 +4,7 @@
 
 
 <h2>Project Summary:</h2>
-This project shows how I created 2 (two) virtual machines using Microsoft Azure cloud compute.<br>
+This project shows how I created 2 (two) virtual machines on the Microsoft Azure cloud compute platform.<br>
 One of the virtual machines ran a Microsoft Windows 10 operating system, while the other ran a Linux Ubuntu operating system.
 
 
