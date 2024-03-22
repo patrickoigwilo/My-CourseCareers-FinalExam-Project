@@ -19,7 +19,7 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 
 - Microsoft Azure cloud platform
 - Microsoft Windows 10 Pro (22H2)
-- Linux Ubuntu 20.04
+- Linux Ubuntu Server 20.04
 - Remote Desktop
 - Powershell/CLI
 
@@ -38,3 +38,6 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 
 ![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/9b71d0d4-2605-41ad-b0b4-967056babaf8)
 
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/da8d9729-6499-4d71-8efb-c1d95cfa4e9f)
+
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/16f122be-a1e4-441e-860a-46462d4f71b1)
