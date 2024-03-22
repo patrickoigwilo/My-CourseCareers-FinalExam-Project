@@ -5,7 +5,7 @@
 
 <h2>Project Summary:</h2>
 This project shows how I created 2 (two) virtual machines using Microsoft Azure cloud compute.<br>
-One of the virtual machines runs a Microsoft Windows 10 operating system, while the other runs a Linux Ubuntu operating system.
+One of the virtual machines ran a Microsoft Windows 10 operating system, while the other ran a Linux Ubuntu operating system.
 
 
 ![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/eb29e7bb-2870-45ed-89bb-3339b32aa101)
