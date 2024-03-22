@@ -25,6 +25,8 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 
 <h2>Walk-through:</h2>
 
-- I created 2 new virtual machine resource groups in my Microsoft Azure subscription account - one Windows, the other Ubuntu. 
-- (A resource group is a container that holds all the computing resources for the virtual machine including the virtual network, subnet, unique Network Interface Card; NIC, private and public IP addresses and Network Security Group (NSG) which essentially is a firewall for screening network traffic.)
-- 
+- I created a resource group from my Microsoft Azure tenant and subscription account.
+- (A resource group is a container that holds all the computing resources, for the virtual machines in this case, including the virtual network, subnet, unique Network Interface Card; NIC, private and public IP addresses and Network Security Group (NSG) which essentially is a firewall for screening network traffic.)
+- I created a virtual network inside my resource group.
+- I also created a subnet inside my virtual network.
+- The two virtual machines - one Windows 10 and the other Linux Ubuntu with automatically assigned NSGs - were created inside the subnet. Each virtual machine has both a private and public IP address. The public IP address is used to connect to the world wide web while the private IP address is used to connect between virtual machines.
