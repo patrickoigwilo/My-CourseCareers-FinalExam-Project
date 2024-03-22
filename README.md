@@ -29,15 +29,17 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 - (A resource group is a container that holds all the computing resources, for the virtual machines in this case, including the virtual network, subnet, unique Network Interface Card; NIC, private and public IP addresses and Network Security Group (NSG) which essentially is a firewall for screening network traffic.)
 - Next, I created the 2 virtual machines - one after the other. When a virtual machine is created in Azure, other components such as the virtual network and subnet, NICs, IP addresses and NSGs are automatically created.
 - (The two virtual machines - one Windows 10 and the other Linux Ubuntu with automatically assigned NSGs - were created inside the virtual network and subnet. Each virtual machine was assigned both a private and public IP address. The public IP address is used to connect publicly to and from the World Wide Web while the private IP address is used to connect privately between virtual machines.)
-
+- I then used Remote Desktop to access each virtual machine from my host computer and to interconnect both virtual machines.
+- Please, see the attached screenshots below:
 </br>
 
-![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/3cbe2247-cb0d-4cde-9850-20aea3481f63)
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/bd63885f-491b-4a23-a18b-a947487f94b2)
 
-![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/b580847d-0e42-420d-84c3-05a0400adbbb)
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/39c82d5a-fa33-49bf-aaaa-9c4763a2b062)
 
-![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/9b71d0d4-2605-41ad-b0b4-967056babaf8)
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/9504575b-3e79-4d17-bf80-47fca22fe078)
 
-![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/da8d9729-6499-4d71-8efb-c1d95cfa4e9f)
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/748181df-58ed-409f-9d48-29ed96578115)
 
-![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/16f122be-a1e4-441e-860a-46462d4f71b1)
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/7c35dced-87de-4aea-bd7d-e3ea54bc3c60)
+
