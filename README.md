@@ -35,3 +35,5 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 ![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/3cbe2247-cb0d-4cde-9850-20aea3481f63)
 
 ![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/b580847d-0e42-420d-84c3-05a0400adbbb)
+
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/222991a0-617f-4eb9-8934-acb6034e249a)
