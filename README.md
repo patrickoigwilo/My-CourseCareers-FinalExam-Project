@@ -18,7 +18,7 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 <h2>Environments, Applications and Technologies Used:</h2>
 
 - Microsoft Azure cloud platform
-- Microsoft Windows 10 (21H2)
+- Microsoft Windows 10 Pro (22H2)
 - Linux Ubuntu 20.04
 - Remote Desktop
 - Powershell/CLI
@@ -32,6 +32,6 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 
 </br>
 
-![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/5c25a88a-fa11-4c7a-a262-7de3a3bc5a3e)
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/3cbe2247-cb0d-4cde-9850-20aea3481f63)
 
-
+![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/b580847d-0e42-420d-84c3-05a0400adbbb)
