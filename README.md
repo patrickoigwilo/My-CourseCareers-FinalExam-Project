@@ -1,4 +1,4 @@
-<h1>Creating Virtual Machines Using Microsoft Azure Cloud Platform</h1>
+<h1>Creating Virtual Machines Using The Microsoft Azure Cloud Platform</h1>
 
 ![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/2d70d06c-1917-4cc8-a580-fa4cf4d9ed40)
 
@@ -12,7 +12,7 @@ One of the virtual machines ran a Microsoft Windows 10 operating system, while t
 
 <h2>Video Demonstration:</h2>
 
-- [How to Create Virtual Machines with Microsoft Azure](https://www.youtube.com)
+- [How to Create Virtual Machines with Microsoft Azure](https://vimeo.com/926466313/3d033e1abf?share=copy)
   
 
 <h2>Environments, Applications and Technologies Used:</h2>
