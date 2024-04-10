@@ -1,4 +1,4 @@
-<h1>Creating Virtual Machines Using The Microsoft Azure Cloud Platform</h1>
+<h1>Project Title: Creating Virtual Machines Using The Microsoft Azure Cloud Platform</h1>
 
 ![image](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project/assets/162601853/2d70d06c-1917-4cc8-a580-fa4cf4d9ed40)
 
